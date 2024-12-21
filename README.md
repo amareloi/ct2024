@@ -1,8 +1,5 @@
-Token :
-ghp_
-.
-Ig5qgINJcuwikfHWES6utQZjVAry4c3Q9N5j
-
+Token
+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
 ### Création du contrôleur et d'une base de données
 
 - Création du contrôleur
